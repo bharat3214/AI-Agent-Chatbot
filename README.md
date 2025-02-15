@@ -1,8 +1,6 @@
 # 🤖 AI-Agent-Chatbot  
 🚀 An AI chatbot that supports multiple LLMs (**Groq, OpenAI**) with real-time interaction using **LangGraph** and **Streamlit**. It also features **web search integration** for enhanced responses.
 
-🚀 AI Agent Chatbot
-An AI-powered chatbot that uses Groq, OpenAI, and Tavily Search to provide smart and friendly conversations with real-time search capabilities.
 
 🔗 Live Demo
 https://ai-agent-chatbot-gx858dcf2nixnzclkvhwwa.streamlit.app/
