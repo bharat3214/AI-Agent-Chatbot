@@ -51,11 +51,10 @@ streamlit run frontend.py
 ---
 
 ## 🔥 Usage
-1. Open `http://127.0.0.1:8501/` in your browser.
-2. Enter a **system prompt** to define the chatbot’s behavior.
-3. Choose **Groq** or **OpenAI** as the LLM provider.
-4. Enable **Web Search** if required.
-5. Ask your question and get an instant AI response!
+1. Enter a **system prompt** to define the chatbot’s behavior.
+2. Choose **Groq** or **OpenAI** as the LLM provider.
+3. Enable **Web Search** if required.
+4. Ask your question and get an instant AI response!
 
 ---
 
