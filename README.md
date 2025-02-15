@@ -75,15 +75,18 @@ streamlit run frontend.py
 
 ---
 
-## 💡 Contributing
-Feel free to submit **pull requests** or create **issues** for improvements.  
+## 🛠️ Contribution Guidelines
+
+🚨 **Direct push to `main` is restricted!** 🚨  
+To contribute, follow these steps:
+
+1. **Fork** the repository.
+2. Create a **new branch** (`feature-branch`) in your fork.
+3. Make changes and **commit** them.
+4. Open a **Pull Request (PR)** to merge your branch into `main`.
+5. Wait for review and approval before merging.
+
+✔️ PRs without approvals **will not be merged**.  
+
 
 ---
-
-## 📜 License
-This project is licensed under **MIT License**.
-```
-
----
-
-This README **clearly explains** the setup, usage, and future scope. 🚀 Let me know if you need **modifications** or **additional details**!
